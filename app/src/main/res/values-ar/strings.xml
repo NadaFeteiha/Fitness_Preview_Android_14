@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Fitness</string>
+
+    <string name="weight">ما هو وزنك</string>
+    <string name="routine">من فضلك، اختار الروتين المناسب لك.</string>
+    <string name="gender">ما هو جنسك؟</string>
+    <string name="female">انثى</string>
+    <string name="male">ذكر</string>
+    <string name="welcom">مرحبا بك...</string>
+
+</resources>

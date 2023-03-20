@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Fitness</string>
+    <string name="title" translatable="false">Preview Grammatical Inflection</string>
+
+    <string name="weight">Your weight?</string>
+    <string name="routine">Please, choose the right routine for you.</string>
+    <string name="gender">What\'s your gender?</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="welcom">Welcome</string>
+
+</resources>

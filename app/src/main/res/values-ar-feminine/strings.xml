@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test">تجربه</string>
+    <string name="weight"> ما هو وزنكِ؟ </string>
+    <string name="routine">من فضلكِ، اختاري الروتين المناسب لكِ.</string>
+    <string name="welcom">مرحبا بكِ...</string>
+
+</resources>
