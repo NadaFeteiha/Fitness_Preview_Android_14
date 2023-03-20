@@ -51,7 +51,7 @@ fun HomeContent(
                 grammaticalInflectionManager.setRequestedApplicationGrammaticalGender(configuration)
             })
         } else if (page == 1) {
-            PersonalInfo()
+            PersonalInfo(grammaticalInflectionManager = grammaticalInflectionManager)
         }
     }
 

@@ -73,6 +73,7 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.7.0-alpha02")
     implementation ("com.google.accompanist:accompanist-pager:0.28.0")
     implementation ("com.google.accompanist:accompanist-systemuicontroller:0.28.0")
+    implementation ("com.airbnb.android:lottie-compose:4.0.0")
 
 
 }
